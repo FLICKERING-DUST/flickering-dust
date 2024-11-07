@@ -1,16 +1,12 @@
-## Hi there 👋
+# What Makes the Sky Blue?
+<h2>
+<p align="center" width="100%" font="h3">
+˚₊‧꒰ა ECLIPTICA ໒꒱ ‧₊˚
+</p>
 
-<!--
-**FLICKERING-DUST/flickering-dust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" width="100%">
+ <img src="https://komarev.com/ghpvc/?username=flickering-dust&style=for-the-badge&label=ㅤ༊·˚ㅤ&color=d0634c"> 
+ </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" width="100%">
+  <img src="https://github.com/user-attachments/assets/1dfb6e19-2bd4-446e-9bbf-6179ac380858">
